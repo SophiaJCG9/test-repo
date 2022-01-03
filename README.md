@@ -1,4 +1,5 @@
-# test-repo
-Best repo for C2C class.
-Some text.
- *TODO* Add more content
+# Introduction
+This is a repository created by *SOPHIA*
+## Usage
+Run this command to execute the application: `python filename.py`
+
