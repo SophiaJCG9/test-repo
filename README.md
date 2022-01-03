@@ -1,5 +1,6 @@
 # Introduction
-This is a repository created by *SOPHIA*
+This is a repository created by 
+*SOPHIA*
 ## Usage
 Run this command to execute the application: `python filename.py`
 
